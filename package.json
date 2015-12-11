@@ -9,6 +9,7 @@
 		"decode",
 		"base64"
 	],
+	"blah": "whatever",
 	"icon": "ecdc.png",
 	"engines": {
 		"vscode": "0.10.x"
